@@ -19,7 +19,7 @@ Hobbies que me inspiram criatividade, disciplina e colaboração.
 -->
 
 
-### 📬 Contato
+###  Contato
 
 <p>
   <a href="https://linkedin.com/in/higooliver" target="_blank">
