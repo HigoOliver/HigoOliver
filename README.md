@@ -3,7 +3,7 @@
 Estudante de Ciência da Computação na UEPB. 
 Atualmente focado em desenvolvimento web, lógica de programação e fundamentos da computação.
 
-🎮 Games | ⚽ Esportes | 🎬 Cinema  
+ Games |  Esportes |  Cinema  
 Hobbies que me inspiram criatividade, disciplina e colaboração. 
 
 ---
